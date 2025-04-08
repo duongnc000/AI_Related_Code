@@ -1,0 +1,5 @@
+train: Train/images
+val: Val/images
+
+nc: 6  # number of fruit classes
+names: ['apple', 'banana', 'grapes', 'orange', 'pineapple', 'watermelon']  # class names
